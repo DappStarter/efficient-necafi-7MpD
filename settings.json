@@ -1,0 +1,13 @@
+{
+    "name": "NIL",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "NIL",
+        "/category/asset_value_tracking/core-token/symbol": "NIL",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "100000000000"
+    }
+}
